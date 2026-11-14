@@ -4,8 +4,7 @@
 
 <p>
 💻 Front-End Developer <br>
-🐍 Experience with Python <br>
-📱 Experience with Flutter Flow  
+🐍 Experience with Python <br>  
 </p>
 
 <!-- Social Links -->
